@@ -3,8 +3,8 @@
   <img src="https://user-images.githubusercontent.com/000000/gradient-bar.png" alt="" style="width:100%;max-width:760px;border-radius:12px"/>
 </h1>
 
-<h1 align="center">👋 Hi, I’m <strong style="color:#00E5FF">Abdul Hadi Azeem</strong></h1>
-<p align="center">💼 Front-End Engineer • UI/UX Enthusiast • React & Tailwind Practitioner</p>
+<h1 align="center"> Hi whatsup, I’m <strong style="color:#00E5FF">Abdul Hadi Azeem</strong></h1>
+<p align="center">💼 Front-End Engineer • UI/UX Practitioner</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=690&lines=Building+pixel-perfect+interfaces;Design-driven+developer;Open+to+collaboration+%26+freelance" alt="typing" />
@@ -13,10 +13,10 @@
 ---
 
 ## 🔭 About Me
-- 🚀 I design and build modern, responsive web apps with focus on performance and UX.
-- 🧩 Strong in HTML, CSS, JavaScript, React, TailwindCSS; learning Next.js & TypeScript.
+- 🚀 I design and build modern web apps with focus on performance and UX.
+- 🧩 Strong in HTML, CSS, JavaScript with learning advanced javascript.
 - 💡 I aim to ship production-ready features with polished UI and clean code.
-- 🎧 I love coding to lo-fi beats and iterating until micro-interactions feel right.
+- 🎧 I intrust in coding.
 
 ---
 
@@ -41,13 +41,13 @@
 ---
 
 ## ✨ Featured Projects
-> Clean, well-documented projects that show UI + engineering quality.
+> Clean, well-documented projects that show UI.
 
 | Project | What it does | Tech |
 |---|---:|:---|
-| **Portfolio** | Interactive portfolio with motion & responsiveness | React, Tailwind, Framer Motion |
-| **ChatSphere** | Realtime chat UI with polished UX | React, Firebase, Tailwind |
-| **WeatherScope** | Beautiful weather dashboard with API caching | JS, Fetch API, CSS Grid |
+| **Portfolio** | Interactive portfolio with motion & responsiveness
+| **ChatSphere** | Realtime chat UI with polished UX 
+| **WeatherScope** | Beautiful weather  |
 
 > *(Add repository links beside project names for live demos & source code.)*
 
@@ -70,8 +70,7 @@
 ## ⚙️ Optional Pro Enhancements (I can add)
 - Custom gradient header image (SVG) for unique branding  
 - Auto-generated project cards with repo links & live demo buttons  
-- Custom role badges: `React Developer`, `Open Source Contributor`, `UI/UX`  
-- Visitor counter & language heatmap with tailored colors  
+- Custom role badges: `React Developer`, `Open Source Contributor`, `UI/UX`    
 - Light-mode alternative (if you want both themes toggled)
 
 ---
